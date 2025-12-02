@@ -8,6 +8,7 @@ import {
 
 export const pools = {
   xauerg: 'https://erg-xau-oracle-api.ergohost.io',
+  ergusdv2: 'https://oracle-ergousd.sigmaspace.io',
 };
 
 export class OraclePoolStateV2Service {
